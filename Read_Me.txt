@@ -1,6 +1,6 @@
 -- INSTALLATION--
 If you don't have python, install it https://www.python.org/downloads/
-If you don't have .net SDK, install it https://dotnet.microsoft.com/en-us/download
+If you don't have .net SDK, install it https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.17-windows-x64-installer
 run setup.py to install all the libraries
 
 
